@@ -11,7 +11,7 @@ This program requires Java to compile and run.
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
 
-This program is based on Encryption-Decryptions Solver with AI on JetBrains Academy.
+This program is based on Encryption-Decryptions on JetBrains Academy.
 
 ## License
 
